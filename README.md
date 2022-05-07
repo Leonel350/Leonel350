@@ -1,5 +1,5 @@
 # 💫 Hello There!
-I’m a developer specialized in backend technologies.
+I’m a developer from Argentina 🇦🇷 specialized in backend technologies.
 I've been pasionated about computers since I was a kid. I love seeing how things that were just an idea become reality.
 
 ## 🌐 Socials
