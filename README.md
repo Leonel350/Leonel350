@@ -5,7 +5,7 @@ I've been pasionated about computers since I was a kid. I love seeing how things
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonel-mederdrut-a22421176) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Leonel3500) 
 
-## My projects
+## My public projects
 [Football Tournament API](https://github.com/Leonel350/typescript-football-tournament-api) An API to manage tournaments, teams and matches made in typescript with express and mongodb
 
 👀 More coming soon...
